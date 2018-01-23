@@ -7,5 +7,5 @@ void main()
     else if(a==0)
     printf("number is zero");
     else
-    printf(Number is negative");
+    printf("Number is negative");
 }
